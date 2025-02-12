@@ -95,5 +95,4 @@ console_error_panic_hook = "0.1.7"
 web-sys = { version = "0.3", features = ["HtmlCanvasElement"] }
 wasm-bindgen-test = "0.3"
 chrono = { version = ">=0.4.39", features = ["wasmbind"] }
-wasm-bindgen-rayon = "1.3"
 
